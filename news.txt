@@ -1,10 +1,10 @@
 Morning News
 April 27, 2022
-Singapore Time: 18:59 PM 
+Singapore Time: 19:15 PM 
 
-BTC: $39,117.73 (-3.11%)
-ETH: $2,899.09 (-3.18%)
-S&P500 Futures: $4,208.00 (0.90%)
+BTC: $38,961.10 (-3.70%)
+ETH: $2,883.14 (-4.02%)
+S&P500 Futures: $4,202.25 (+0.76%)
 
 Traditional Finance
    •   With inflation, gold notes and cards find their way into America's wallet.
@@ -95,6 +95,10 @@ cnbc.com/2022/04/27/credit-suisse-q1-2022-earnings.html
 Crypto
    •   Market Wrap: Cryptos and Stocks Fall; Bitcoin Trades Below $40K.
 coindesk.com/markets/2022/04/26/market-wrap-cryptos-and-stocks-fall-bitcoin-trades-below-40k/
+   •   Dragonfly Capital Raises $650M for Third Crypto Fund.
+coindesk.com/business/2022/04/27/dragonfly-capital-raises-650m-for-third-crypto-fund/
+   •   Former Homeland Security Chief Nielsen to Join Astra as Adviser.
+coindesk.com/policy/2022/04/27/former-homeland-security-official-nielsen-to-join-astra-as-adviser/
    •   Bitcoin's Derivative Data Suggests Potential for 'Short Squeeze'.
 coindesk.com/markets/2022/04/27/bitcoins-derivative-data-suggests-potential-for-short-squeeze/
    •   Dogecoin, Terra Fall Steepest Among Majors as ‘Long’ Traders Lose $280M.
@@ -195,6 +199,8 @@ cointelegraph.com/news/city-of-fort-worth-votes-in-favor-of-bitcoin-mining-progr
 www.theblockcrypto.com/post/143383/how-community-involvement-can-boost-the-new-data-economy-meet-swash
    •   Crypto Derivatives: State of the Market - Commissioned by FalconX.
 www.theblockcrypto.com/post/142071/crypto-derivatives-state-of-the-market
+   •   Incoming Komainu CEO to stay at London Metal Exchange following nickel squeeze.
+www.theblockcrypto.com/linked/143720/incoming-komainu-ceo-to-stay-at-london-metal-exchange-following-nickel-squeeze
    •   Framework co-founders unpack their $400 million gaming fund's investment thesis.
 www.theblockcrypto.com/post/143583/framework-co-founders-unpack-their-400-million-gaming-funds-investment-thesis
    •   New York Assembly passes two-year crypto mining moratorium bill.
@@ -211,5 +217,3 @@ www.theblockcrypto.com/linked/143635/ethereum-scaling-startup-optimism-confirms-
 www.theblockcrypto.com/linked/143600/cfpb-invokes-old-rule-to-expand-authority-over-fintech-and-crypto-firms
    •   Founders from a16z, Solana and more back new billion-dollar crypto fund.
 www.theblockcrypto.com/post/143448/founders-from-a16z-solana-and-more-back-new-billion-dollar-crypto-fund
-   •   The city of Fort Worth, Texas votes to become a bitcoin miner.
-www.theblockcrypto.com/linked/143588/the-city-of-fort-worth-texas-votes-to-become-a-bitcoin-miner
