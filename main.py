@@ -31,7 +31,7 @@ def main():
     with open(f"news.txt", "w", encoding="utf-8") as f:
         f.write("Morning News\n")
         f.write(f'{date.today().strftime("%B %d, %Y")}\n')
-        f.write(f'Singapore Time: {datetime.now().strftime("%H:%M")} am\n\n')
+        f.write(f'Singapore Time: {datetime.now().strftime("%H:%M %p")} \n\n')
         f.write(f"BTC: {prices_futures[0][0]} ({prices_futures[0][1]})\n")
         f.write(f"ETH: {prices_futures[1][0]} ({prices_futures[1][1]})\n")
         f.write(f"S&P500 Futures: ${prices_futures[2][0]} ({prices_futures[2][1]})\n")

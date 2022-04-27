@@ -11,7 +11,7 @@ def get_futures():
         future_index = future.find("span", class_="value")
         if future_index == None:
             future_index = future.find("bg-quote", class_="value")
-        future_change = future.find("span", class_="change--percent--q").text
-    return future_index, future_change
+        future_change = future.find("span", class_="change--percent--q")
+    return future_index.text, future_change.text
 
 
