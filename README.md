@@ -1,3 +1,5 @@
-# Web scraping news and crypto prices
+# Curated financial news feed
 
-Using BeautifulSoup, Selenium webdriver and regex to scrape traditional finance news sources (Reuters, CNBC) and crypto news sources (Coindesk, CoinTelegraph, The Block), as well as get current price of BTC,ETH and S&P500 futures
+Scraping traditional finance and crypto news sources (Reuters, CNBC, Coindesk, CoinTelegraph, The Block), along with current market price of BTC,ETH and S&P500 futures
+
+Libraries used: BeautifulSoup, Selenium, Regex
